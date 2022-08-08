@@ -1,1 +1,1 @@
-# git-practice-merge-conflicts
+# second-branch
